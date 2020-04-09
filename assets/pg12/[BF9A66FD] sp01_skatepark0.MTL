@@ -1,0 +1,3051 @@
+# Exported by BFBB JSP Tool
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl krustycrabwin2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwin2.png
+
+newmtl krustycrabwin2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwin2.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wood_dutch10_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_dutch10.png
+
+newmtl wall_kitchen_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_kitchen.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl wall_crowd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wall_crowd.png
+
+newmtl tube_house3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house3.png
+
+newmtl tube_house3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house3.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house12_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house12.png
+
+newmtl tube_house11_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house11.png
+
+newmtl tube_house11_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house11.png
+
+newmtl tube_house11_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house11.png
+
+newmtl tube_house11_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd tube_house11.png
+
+newmtl sm_start_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sm_start.png
+
+newmtl sm_finish_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sm_finish.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl skatepark_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd skatepark_net.png
+
+newmtl sign_orderhere_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sign_orderhere.png
+
+newmtl sign_condiment_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sign_condiment.png
+
+newmtl sign_condiment_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sign_condiment.png
+
+newmtl sign_bb_back_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sign_bb_back.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl shadow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd shadow.png
+
+newmtl sb_divboard_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sb_divboard.png
+
+newmtl sb_divboard_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sb_divboard.png
+
+newmtl sb_divboard_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sb_divboard.png
+
+newmtl sandyslideBottom_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sandyslideBottom.png
+
+newmtl sandyslideBottom_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sandyslideBottom.png
+
+newmtl sandyslideBottom_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sandyslideBottom.png
+
+newmtl sandyslideBottom_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sandyslideBottom.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_gl_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_gl.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl sand_BarnCave_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_BarnCave.png
+
+newmtl rope_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rope.png
+
+newmtl rope_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rope.png
+
+newmtl roof_straw_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd roof_straw_ver2.png
+
+newmtl pattern_tiki_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_purple.png
+
+newmtl pattern_tiki_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_purple.png
+
+newmtl pattern_tiki_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_purple.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_tiki_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_tiki_orng.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flowers_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flowers_red.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_flower_squares_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_flower_squares_blue.png
+
+newmtl pattern_bboo_grn_flwrs_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_bboo_grn_flwrs_orng.png
+
+newmtl pattern_bboo_grn_flwrs_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_bboo_grn_flwrs_orng.png
+
+newmtl pattern_bboo_grn_flwrs_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_bboo_grn_flwrs_orng.png
+
+newmtl pattern_bboo_grn_flwrs_orng_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd pattern_bboo_grn_flwrs_orng.png
+
+newmtl onion_large_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd onion_large.png
+
+newmtl object_table_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_table_kk.png
+
+newmtl object_table_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_table_kk.png
+
+newmtl object_table_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_table_kk.png
+
+newmtl object_table_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_table_kk.png
+
+newmtl object_table_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_table_kk.png
+
+newmtl object_table_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_table_kk.png
+
+newmtl object_door_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue.png
+
+newmtl object_door_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue.png
+
+newmtl object_door_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue.png
+
+newmtl object_door_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue.png
+
+newmtl object_door_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue.png
+
+newmtl object_clock_kk_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_clock_kk.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl kelp_platform_top_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd kelp_platform_top.png
+
+newmtl juice_machine_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd juice_machine.png
+
+newmtl juice_machine_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd juice_machine.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl hot_sauce_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd hot_sauce.png
+
+newmtl hot_sauce_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd hot_sauce.png
+
+newmtl hot_sauce_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd hot_sauce.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl glass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd glass.png
+
+newmtl cup_soda_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cup_soda.png
+
+newmtl cup_soda_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cup_soda.png
+
+newmtl cup_soda_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cup_soda.png
+
+newmtl changing_tent_a_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd changing_tent_a.png
+
+newmtl changing_tent_a_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd changing_tent_a.png
+
+newmtl cash_register_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cash_register.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl cannon_fd_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd cannon_fd.png
+
+newmtl burlap_sack_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd burlap_sack.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_purple2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_purple2.png
+
+newmtl building_purple2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_purple2.png
+
+newmtl building_purple2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_purple2.png
+
+newmtl building_purple2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_purple2.png
+
+newmtl building_purple2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_purple2.png
+
+newmtl building_grey2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_grey2.png
+
+newmtl building_grey2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_grey2.png
+
+newmtl building_grey2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_grey2.png
+
+newmtl building_grey2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_grey2.png
+
+newmtl building_grey2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_grey2.png
+
+newmtl building_chum3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum3.png
+
+newmtl building_chum3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum3.png
+
+newmtl building_chum3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum3.png
+
+newmtl building_chum3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum3.png
+
+newmtl building_chum3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum3.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum2.png
+
+newmtl building_chum_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum.png
+
+newmtl building_chum_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum.png
+
+newmtl building_chum_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum.png
+
+newmtl building_chum_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum.png
+
+newmtl building_chum_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_chum.png
+
+newmtl building_blue5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue5.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_blue_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue.png
+
+newmtl building_aqua_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_aqua.png
+
+newmtl building_aqua_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_aqua.png
+
+newmtl building_aqua_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_aqua.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_red_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor_red.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl bowl_floor_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bowl_floor.png
+
+newmtl boat_panel_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd boat_panel.png
+
+newmtl boat_panel_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd boat_panel.png
+
+newmtl barrel_01_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd barrel_01.png
+
+newmtl barrel_01_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd barrel_01.png
+
+newmtl barrel_01_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd barrel_01.png
+
+newmtl barrel_01_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd barrel_01.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl bamboo_furniture_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_furniture.png
+
+newmtl default_0_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_1_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+

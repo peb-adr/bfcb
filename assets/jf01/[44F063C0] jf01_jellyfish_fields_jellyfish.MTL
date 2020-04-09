@@ -1,0 +1,2279 @@
+# Exported by BFBB JSP Tool
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl grass_edge_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_edge_ver2.png
+
+newmtl kelp_wall_fringe_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd kelp_wall_fringe.png
+
+newmtl kelp_wall_fringe_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd kelp_wall_fringe.png
+
+newmtl wood_board_Nails_singleV2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_board_Nails_singleV2.png
+
+newmtl wood_board_Nails_singleV2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_board_Nails_singleV2.png
+
+newmtl wood_board_Nails_singleV2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd wood_board_Nails_singleV2.png
+
+newmtl window_square_rust_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd window_square_rust.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl water_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd water_ver2.png
+
+newmtl surface_wood_light_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd surface_wood_light.png
+
+newmtl surface_house_squidward_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd surface_house_squidward.png
+
+newmtl surface_house_squidward_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd surface_house_squidward.png
+
+newmtl surface_house_spongebob_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd surface_house_spongebob.png
+
+newmtl surface_chum_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd surface_chum.png
+
+newmtl sign_jfflds_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sign_jfflds.png
+
+newmtl sign_jellyfish_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sign_jellyfish.png
+
+newmtl sand_jfflds_wet_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_jfflds_wet.png
+
+newmtl sand_jfflds_wet_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_jfflds_wet.png
+
+newmtl sand_jfflds_wet_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_jfflds_wet.png
+
+newmtl sand_jfflds_wet_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_jfflds_wet.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl sand_crater_jf_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd sand_crater_jf.png
+
+newmtl roof_straw_ver2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd roof_straw_ver2.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_ver3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple_ver3.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_purple_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_purple.png
+
+newmtl rock_cracked_blue_03_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd rock_cracked_blue_03.png
+
+newmtl Rock_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd Rock_3.png
+
+newmtl Rock_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd Rock_3.png
+
+newmtl Rock_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd Rock_3.png
+
+newmtl Rock_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd Rock_3.png
+
+newmtl Rock_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd Rock_3.png
+
+newmtl porthole_big_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd porthole_big_3.png
+
+newmtl porthole_big_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd porthole_big_3.png
+
+newmtl porthole_big_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd porthole_big_3.png
+
+newmtl object_door_blue02_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue02.png
+
+newmtl object_door_blue02_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd object_door_blue02.png
+
+newmtl long_shadows_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd long_shadows.png
+
+newmtl light_street_rev_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd light_street_rev.png
+
+newmtl light_street_rev_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd light_street_rev.png
+
+newmtl krustykrab_net_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustykrab_net.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabwd5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabwd5.png
+
+newmtl krustycrabsng2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd krustycrabsng2.png
+
+newmtl kelp_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd kelp_wall.png
+
+newmtl kelp_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd kelp_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl jf_rock_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jf_rock_wall.png
+
+newmtl JellyfishRock_Top_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd JellyfishRock_Top.png
+
+newmtl JellyfishRock_Top_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd JellyfishRock_Top.png
+
+newmtl JellyfishRock_Top_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd JellyfishRock_Top.png
+
+newmtl JellyfishRock_Top_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd JellyfishRock_Top.png
+
+newmtl jellyfish_rock_sign_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jellyfish_rock_sign.png
+
+newmtl jellyfish_rock_sign_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd jellyfish_rock_sign.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl inivisible_wall_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd inivisible_wall.png
+
+newmtl house_patrick_rock_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd house_patrick_rock.png
+
+newmtl ground_street_lt_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_street_lt.png
+
+newmtl ground_street_lt_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_street_lt.png
+
+newmtl ground_street_lt_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_street_lt.png
+
+newmtl ground_street_lt_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_street_lt.png
+
+newmtl ground_street_alpha_lt_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_street_alpha_lt.png
+
+newmtl ground_path_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_path.png
+
+newmtl ground_day3_edge_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3_edge.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day3.png
+
+newmtl ground_day2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day2.png
+
+newmtl ground_day2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day2.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl ground_day_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd ground_day.png
+
+newmtl grass_path_end_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_path_end.png
+
+newmtl grass_path_end_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_path_end.png
+
+newmtl grass_path_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_path.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_patch_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass_patch.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl grass_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd grass.png
+
+newmtl building_yellow_tube_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_yellow_tube.png
+
+newmtl building_yellow_tube_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_yellow_tube.png
+
+newmtl building_yellow_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_yellow.png
+
+newmtl building_wood_krusty2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty2.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_krusty_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_krusty.png
+
+newmtl building_wood_bank_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_wood_bank.png
+
+newmtl building_white2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_white2.png
+
+newmtl building_white_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_white.png
+
+newmtl building_rust_dark_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_rust_dark.png
+
+newmtl building_red2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_red2.png
+
+newmtl building_red2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_red2.png
+
+newmtl building_red2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_red2.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl building_blue3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd building_blue3.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_swing_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_swing.png
+
+newmtl bamboo_ends_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_ends.png
+
+newmtl bamboo_ends_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_ends.png
+
+newmtl bamboo_ends_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+map_Kd bamboo_ends.png
+
+newmtl default_0_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_1_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_2_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_3_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_4_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_5_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_6_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_7_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
+newmtl default_8_m
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 10
+d 1.0
+illum 4
+
