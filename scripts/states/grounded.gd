@@ -6,6 +6,7 @@ func _enter():
 	._enter()
 	
 	over_edge = 0.0
+	parent.can_damp = true
 	
 #	parent.anim.stop(false)
 #	parent.anim.play("idle01")
@@ -62,5 +63,8 @@ func _next():
 #		return fsm.get_node("fall_1")
 	elif over_edge > Const.SB_GROUNDED_OVER_EDGE:
 		return fsm.get_node("fall_1")
+	elif parent.i_special_just:
+		parent.bubble_bowl()
+		return self
 	else:
 		return self

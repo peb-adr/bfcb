@@ -1,7 +1,5 @@
 extends Spatial
 
-export var TURN_SPEED = 5
-
 var i_control = Vector3.ZERO
 
 func _process(delta):
@@ -9,7 +7,7 @@ func _process(delta):
 	
 	if i_control == Vector3.ZERO:
 		return
-	rotation.y += i_control.x * TURN_SPEED * delta
+	rotation.y += i_control.x * Const.CAMERA_TURN_SPEED * delta
 #	var new_angle = camera_angle + i_control_camera.x * CAMERA_TURN_SPEED
 #	camera_angle = lerp(camera_angle, new_angle, 0.1)
 

@@ -1,7 +1,8 @@
 # Collection of concrete algebraic functions
 
 static func gravity_next_y_momentum(value: float) -> float:
-	return max(-15.0, value - 0.5)
+#	return max(-15.0, value - 0.5)
+	return value - 0.5
 
 # Calculates y momentum when jumping (usable range: 0 <= frame <= 15)
 static func jump_y_momentum(frame: int) -> float:

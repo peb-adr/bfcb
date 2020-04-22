@@ -9,8 +9,8 @@ onready var anim: AnimationPlayer = $Collision/MeshAnimated/AnimationPlayer
 onready var mesh: MeshInstance = $Collision/MeshAnimated/Skeleton/Mesh
 onready var mesh_bubble_wand: MeshInstance = $Collision/MeshAnimated/Skeleton/MeshBubbleWand
 
-export var WALK_SPEED = 5.0
-export var TURN_SPEED = 5.0
+#export var WALK_SPEED = 5.0
+#export var TURN_SPEED = 5.0
 
 var frame = 0
 
@@ -34,8 +34,11 @@ var e_grounded_just: bool = true setget ,get_e_grounded_just
 var momentum = Vector3.ZERO
 var momentum_force = Vector3.ZERO
 var control_force = Vector3.ZERO
+var turn_speed = Const.SB_TURN_SPEED
 var velocity = Vector3.ZERO
-var isBowling = false
+var can_damp = true
+var is_bowling = false
+var bowling_velocity = 0.0
 
 # angles
 var look_angle = 0.0
@@ -53,6 +56,11 @@ func _physics_process(delta):
 	frame += 1
 	read_input()
 	
+	
+#	if is_bowling:
+#		bubble_bowl()
+	
+	
 	# calculate new velocity
 	calc_momentum_force()
 	calc_control_force()
@@ -63,7 +71,7 @@ func _physics_process(delta):
 	
 	# apply physics
 	move_and_slide(velocity, Vector3.UP)
-	$Collision.set_rotation(Vector3(0.0, look_angle, 0.0))
+	$Collision.rotation.y = look_angle
 #	if translation.y > 0.2:
 #		print(translation)
 	
@@ -83,23 +91,27 @@ func read_input():
 	if i_control.length() > 1:
 		i_control = i_control.normalized()
 	if i_control_local.length() > 1:
-		i_control_local = i_control_local.normalized()
+			i_control_local = i_control_local.normalized()
 	
 #	print("i_control {v} \t\t length {l}".format({"v": i_control, "l": i_control.length()}))
 
 func calc_momentum_force():
+	if is_bowling:
+		var v = Vector3.FORWARD.rotated(Vector3.UP, look_angle) * bowling_velocity
+		momentum.x = v.x
+		momentum.z = v.z
 	momentum_force = momentum
 
 func calc_control_force():
-	if lock_control_force:
-		control_force = Vector3.ZERO
-		return
+#	if lock_control_force:
+#		control_force = Vector3.ZERO
+#		return
 	
 	var direction
 	var factor
 	
 	if $FiniteStateMachine.current_state.name == "grounded" and \
-			not lock_look_angle:
+			not lock_look_angle and not is_bowling:
 		# look direction
 		direction = Vector3.FORWARD.rotated(Vector3.UP, look_angle)
 	else:
@@ -107,26 +119,30 @@ func calc_control_force():
 		direction = i_control_local
 	direction = direction.normalized()
 	
-	if i_control_local.length() < Const.SB_MOVE_SPEED_STICK_MAP[0]:
-		factor = 0
-	elif i_control_local.length() < Const.SB_MOVE_SPEED_STICK_MAP[1]:
-		var weight = Algebra.value_weight_in_range(
-				i_control_local.length(),
-				Const.SB_MOVE_SPEED_STICK_MAP[0],
-				Const.SB_MOVE_SPEED_STICK_MAP[1])
-		factor = Algebra.weigh_value_in_range(
-				weight,
-				Const.SB_MOVE_SPEED[0],
-				Const.SB_MOVE_SPEED[1])
+	
+	if lock_control_force:
+		factor = Vector3.ZERO
 	else:
-		var weight = Algebra.value_weight_in_range(
-				min(i_control_local.length(), 1),
-				Const.SB_MOVE_SPEED_STICK_MAP[1],
-				Const.SB_MOVE_SPEED_STICK_MAP[2])
-		factor = Algebra.weigh_value_in_range(
-				weight,
-				Const.SB_MOVE_SPEED[1],
-				Const.SB_MOVE_SPEED[2])
+		if i_control_local.length() < Const.SB_MOVE_SPEED_STICK_MAP[0]:
+			factor = 0
+		elif i_control_local.length() < Const.SB_MOVE_SPEED_STICK_MAP[1]:
+			var weight = Algebra.value_weight_in_range(
+					i_control_local.length(),
+					Const.SB_MOVE_SPEED_STICK_MAP[0],
+					Const.SB_MOVE_SPEED_STICK_MAP[1])
+			factor = Algebra.weigh_value_in_range(
+					weight,
+					Const.SB_MOVE_SPEED[0],
+					Const.SB_MOVE_SPEED[1])
+		else:
+			var weight = Algebra.value_weight_in_range(
+					min(i_control_local.length(), 1),
+					Const.SB_MOVE_SPEED_STICK_MAP[1],
+					Const.SB_MOVE_SPEED_STICK_MAP[2])
+			factor = Algebra.weigh_value_in_range(
+					weight,
+					Const.SB_MOVE_SPEED[1],
+					Const.SB_MOVE_SPEED[2])
 	
 	control_force = factor * direction
 
@@ -142,7 +158,7 @@ func calc_look_angle():
 	
 	diff_angle = control_angle - look_angle
 	diff_angle = Util.normalize_rotation(diff_angle)
-	diff_angle = clamp(diff_angle, -TURN_SPEED, TURN_SPEED)
+	diff_angle = clamp(diff_angle, -turn_speed, turn_speed)
 	diff_angle *= 0.15
 	
 	# 0.1 * (3.141592653589793 - f(n-1)) + f(n-1)
@@ -150,6 +166,24 @@ func calc_look_angle():
 	look_angle = Util.normalize_rotation(look_angle + diff_angle)
 #	print("%d %f" % [tmp, look_angle])
 #	tmp += 1
+
+func bubble_bowl():
+	print(is_bowling)
+	if not is_bowling:
+		is_bowling = true
+		turn_speed = Const.SB_BBOWL_TURN_SPEED
+#		lock_control_force = true
+		bowling_velocity = max(velocity.length(), Const.SB_BBOWL_MIN_VELOCITY)
+	else:
+#		bowling_velocity *= 0.95
+#		if bowling_velocity < 0.01:
+#			is_bowling = false
+#			turn_speed = Const.SB_TURN_SPEED
+#			lock_control_force = false
+		is_bowling = false
+		turn_speed = Const.SB_TURN_SPEED
+		momentum.x = 0
+		momentum.z = 0
 
 func get_i_jump() -> bool:
 	i_jump = Input.is_action_pressed("jump")
@@ -189,7 +223,7 @@ func get_e_grounded() -> bool:
 #	move_and_collide(Vector3(0.0, Const.SB_GROUNDED_FORCE_HARD, 0.0))
 	e_grounded = is_on_floor()
 #	return 
-	print(e_grounded)
+#	print(e_grounded)
 	return e_grounded
 
 func get_e_grounded_just() -> bool:

@@ -1,0 +1,130 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/hud.gd" type="Script" id=1]
+
+[node name="HUD" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="PanelControl" type="Panel" parent="."]
+modulate = Color( 0.0862745, 0.839216, 0.556863, 1 )
+margin_left = 10.0
+margin_top = 40.0
+margin_right = 110.0
+margin_bottom = 140.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Line" type="Line2D" parent="PanelControl"]
+points = PoolVector2Array( 50, 50, 0, 0 )
+width = 5.0
+
+[node name="Header" type="Label" parent="PanelControl"]
+margin_top = -30.0
+margin_right = 100.0
+margin_bottom = -10.0
+text = "Control"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PanelMomentum" type="Panel" parent="."]
+modulate = Color( 0.647059, 0.321569, 0.0862745, 1 )
+margin_left = 120.0
+margin_top = 40.0
+margin_right = 220.0
+margin_bottom = 140.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Line" type="Line2D" parent="PanelMomentum"]
+points = PoolVector2Array( 50, 50, 0, 0 )
+width = 5.0
+default_color = Color( 0.643137, 0.4, 1, 1 )
+
+[node name="Header" type="Label" parent="PanelMomentum"]
+margin_top = -30.0
+margin_right = 100.0
+margin_bottom = -10.0
+text = "Momentum"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PanelState" type="Panel" parent="."]
+margin_left = 230.0
+margin_top = 40.0
+margin_right = 330.0
+margin_bottom = 140.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Header" type="Label" parent="PanelState"]
+margin_top = -30.0
+margin_right = 100.0
+margin_bottom = -10.0
+text = "State"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="PanelState"]
+margin_left = 10.0
+margin_top = 40.0
+margin_right = 90.0
+margin_bottom = 60.0
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PanelBowl" type="Panel" parent="."]
+margin_left = 340.0
+margin_top = 40.0
+margin_right = 440.0
+margin_bottom = 140.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Header" type="Label" parent="PanelBowl"]
+margin_top = -30.0
+margin_right = 100.0
+margin_bottom = -10.0
+text = "Bubble Bowl"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="LabelIs" type="Label" parent="PanelBowl"]
+margin_left = 10.0
+margin_top = 30.0
+margin_right = 90.0
+margin_bottom = 50.0
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="LabelSpeed" type="Label" parent="PanelBowl"]
+margin_left = 10.0
+margin_top = 50.0
+margin_right = 90.0
+margin_bottom = 70.0
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}

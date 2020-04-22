@@ -18,7 +18,7 @@ func _update(delta: float):
 		parent.mesh_bubble_wand.visible = true
 	if frame == 24:
 		parent.mesh_bubble_wand.visible = false
-	if frame > 2 and frame < 24:
+	if parent.can_damp and frame > 2 and frame < 24:
 		parent.momentum.y = Algebra.attack_next_y_momentum(parent.momentum.y)
 
 func _exit():
@@ -26,6 +26,7 @@ func _exit():
 	
 	parent.lock_look_angle = false
 	parent.mesh_bubble_wand.visible = false
+	parent.can_damp = false
 
 func _next():
 	if frame == 24:
