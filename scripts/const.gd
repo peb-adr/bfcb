@@ -12,8 +12,6 @@ const SB_MOVE_SPEED_STICK_MAP = [0.1, 0.8, 1.0]
 const SB_TURN_SPEED = 5.0
 const SB_BBOWL_TURN_SPEED = 0.25
 
-const SB_BBOWL_MIN_VELOCITY = 0.6
-
 # Down velocity when grounded to see if SB is still grounded / can start falling
 const SB_GROUNDED_FORCE_SOFT = -5
 const SB_GROUNDED_FORCE_HARD = -0.0

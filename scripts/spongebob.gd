@@ -50,6 +50,11 @@ var diff_angle = 0.0
 var lock_look_angle: bool = false
 var lock_control_force: bool = false
 
+# DEBUG
+var debug_move_speed = 0.0
+var debug_y_momentum = 0.0
+
+
 func _physics_process(delta):
 #	print("physics_process: %f" % delta)
 #	print("frame %d" % frame)
@@ -72,8 +77,6 @@ func _physics_process(delta):
 	# apply physics
 	move_and_slide(velocity, Vector3.UP)
 	$Collision.rotation.y = look_angle
-#	if translation.y > 0.2:
-#		print(translation)
 	
 #	print("================")
 
@@ -93,6 +96,10 @@ func read_input():
 	if i_control_local.length() > 1:
 			i_control_local = i_control_local.normalized()
 	
+	# speedwalk and moonjump for easy testing
+	debug_move_speed = Input.get_action_strength("debug2") * 40
+	debug_y_momentum = Input.get_action_strength("debug1") * 10
+	
 #	print("i_control {v} \t\t length {l}".format({"v": i_control, "l": i_control.length()}))
 
 func calc_momentum_force():
@@ -101,6 +108,8 @@ func calc_momentum_force():
 		momentum.x = v.x
 		momentum.z = v.z
 	momentum_force = momentum
+	if debug_y_momentum > 0:
+		momentum_force.y = debug_y_momentum
 
 func calc_control_force():
 #	if lock_control_force:
@@ -121,7 +130,7 @@ func calc_control_force():
 	
 	
 	if lock_control_force:
-		factor = Vector3.ZERO
+		factor = 0
 	else:
 		if i_control_local.length() < Const.SB_MOVE_SPEED_STICK_MAP[0]:
 			factor = 0
@@ -144,6 +153,7 @@ func calc_control_force():
 					Const.SB_MOVE_SPEED[1],
 					Const.SB_MOVE_SPEED[2])
 	
+	factor += debug_move_speed
 	control_force = factor * direction
 
 func calc_look_angle():
@@ -173,7 +183,7 @@ func bubble_bowl():
 		is_bowling = true
 		turn_speed = Const.SB_BBOWL_TURN_SPEED
 #		lock_control_force = true
-		bowling_velocity = max(velocity.length(), Const.SB_BBOWL_MIN_VELOCITY)
+		bowling_velocity = max(velocity.length(), Const.SB_MOVE_SPEED[0])
 	else:
 #		bowling_velocity *= 0.95
 #		if bowling_velocity < 0.01:
