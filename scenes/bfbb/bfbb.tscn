@@ -1,12 +1,13 @@
-[gd_scene load_steps=15 format=2]
+[gd_scene load_steps=16 format=2]
 
 [ext_resource path="res://scripts/bfbb.gd" type="Script" id=1]
 [ext_resource path="res://scenes/bfbb/bfbb_environment.tres" type="Environment" id=2]
 [ext_resource path="res://scenes/hud/hud.tscn" type="PackedScene" id=3]
 [ext_resource path="res://scenes/spongebob/Spongebob.tscn" type="PackedScene" id=4]
-[ext_resource path="res://scenes/skatepark.tscn" type="PackedScene" id=5]
-[ext_resource path="res://scenes/gl01.tscn" type="PackedScene" id=6]
-[ext_resource path="res://scenes/jf01_1.tscn" type="PackedScene" id=7]
+[ext_resource path="res://scenes/levels/skatepark.tscn" type="PackedScene" id=5]
+[ext_resource path="res://scenes/levels/gl01.tscn" type="PackedScene" id=6]
+[ext_resource path="res://scenes/levels/jf01_1.tscn" type="PackedScene" id=7]
+[ext_resource path="res://scenes/tikis/tikilib.res" type="MeshLibrary" id=8]
 
 [sub_resource type="BoxShape" id=1]
 extents = Vector3( 0.5, 0, 0.5 )
@@ -44,24 +45,13 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -142.604, 23.348, -27.6819 )
 [node name="PlacedGeometry" type="Spatial" parent="."]
 
 [node name="floor" type="StaticBody" parent="PlacedGeometry"]
+transform = Transform( 0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, -143.023, 19.3761, -27.9865 )
 
 [node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/floor"]
 transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
 shape = SubResource( 1 )
 
 [node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/floor"]
-transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
-mesh = SubResource( 2 )
-material/0 = SubResource( 3 )
-
-[node name="floor2" type="StaticBody" parent="PlacedGeometry"]
-transform = Transform( 0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, -143.023, 19.3761, -27.9865 )
-
-[node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/floor2"]
-transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
-shape = SubResource( 1 )
-
-[node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/floor2"]
 transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
 mesh = SubResource( 2 )
 material/0 = SubResource( 3 )
@@ -466,14 +456,26 @@ material/0 = null
 
 [node name="blocks_to_kk" type="Spatial" parent="PlacedGeometry"]
 
-[node name="floor4" type="StaticBody" parent="PlacedGeometry/blocks_to_kk"]
-transform = Transform( 1, 0, 0, 0, 0.965926, 0.517638, 0, -0.258819, 1.93185, 62.864, 3.51913, -126.883 )
+[node name="ramp" type="StaticBody" parent="PlacedGeometry/blocks_to_kk"]
+transform = Transform( 1, 0, 0, 0, 0.966156, 0.515918, 0, -0.257959, 1.93231, 62.864, 4.438, -130.043 )
 
-[node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/blocks_to_kk/floor4"]
+[node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/blocks_to_kk/ramp"]
 transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
 shape = SubResource( 1 )
 
-[node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/floor4"]
+[node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/ramp"]
+transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
+mesh = SubResource( 2 )
+material/0 = SubResource( 7 )
+
+[node name="floor" type="StaticBody" parent="PlacedGeometry/blocks_to_kk"]
+transform = Transform( 5.27, 0, 3.91652e-05, 0, 1, 0, -0.00110375, 0, 0.187, -31.6609, 17.3391, -76.9039 )
+
+[node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/blocks_to_kk/floor"]
+transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
+shape = SubResource( 1 )
+
+[node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/floor"]
 transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
 mesh = SubResource( 2 )
 material/0 = SubResource( 7 )
@@ -486,18 +488,6 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
 shape = SubResource( 4 )
 
 [node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/block34"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
-mesh = SubResource( 6 )
-material/0 = null
-
-[node name="block35" type="StaticBody" parent="PlacedGeometry/blocks_to_kk"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -23.7717, 13.8885, -129.778 )
-
-[node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/blocks_to_kk/block35"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
-shape = SubResource( 4 )
-
-[node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/block35"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
 mesh = SubResource( 6 )
 material/0 = null
@@ -558,6 +548,18 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
 shape = SubResource( 4 )
 
 [node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/block39"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+mesh = SubResource( 6 )
+material/0 = null
+
+[node name="block35" type="StaticBody" parent="PlacedGeometry/blocks_to_kk"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -23.7717, 13.8885, -129.778 )
+
+[node name="CollisionShape" type="CollisionShape" parent="PlacedGeometry/blocks_to_kk/block35"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 4 )
+
+[node name="MeshInstance" type="MeshInstance" parent="PlacedGeometry/blocks_to_kk/block35"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
 mesh = SubResource( 6 )
 material/0 = null
@@ -657,6 +659,18 @@ shape = SubResource( 4 )
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
 mesh = SubResource( 6 )
 material/0 = null
+
+[node name="GridMap" type="GridMap" parent="PlacedGeometry"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -229.857 )
+mesh_library = ExtResource( 8 )
+cell_scale = 4.0
+data = {
+"cells": PoolIntArray( 196621, 0, 2, 196624, 2, 6, 524270, 2, 6, 589868, 2, 6, 327727, 3, -1610612730, 196604, 5, 6, 524260, 6, 6, 524324, 7, 6, 262152, 8, 6, 327706, 8, 6, 524324, 8, -1610612730, 262170, 13, 6, 196572, 14, 2, 524334, 14, 6, 983024, 14, 6, 655370, 15, 6, 655371, 15, 6, 458790, 17, 6, 917494, 17, 6, 655321, 18, 6, 6, 19, 6, 7, 19, 6, 786404, 19, 6, 786433, 19, 6, 327734, 23, 6, 458790, 23, 6, 327694, 24, 6, 393263, 24, 6, 458789, 24, 6, 458790, 24, 6, 589805, 24, 6, 655376, 24, 6, 131024, 25, 6, 589854, 25, 6, 393204, 26, 6, 393205, 26, 6, 589818, 26, 6, 589854, 26, 6, 983045, 26, 6, 262143, 27, 6, 524261, 30, 6, 393223, 31, 6, 393240, 31, 6, 524331, 31, 6, 786418, 31, 6, 196594, 33, 6, 393218, 35, 6, 851981, 35, 6, 524337, 36, 6, 589780, 36, 6, 589845, 36, 6, 524252, 37, 6, 524337, 37, 6, 589861, 38, 6, 393202, 40, 6, 524284, 41, 6, 458772, 45, 6, 720907, 45, 6, 393245, 46, 6, 524261, 46, 6, 458801, 47, 6, 524277, 47, 6, 589825, 48, 6, 589861, 50, 6, 393231, 53, 6, 524271, 54, 6, 589777, 54, 6, 393215, 55, 6, 524257, 58, 6, 458786, 62, 6, 524277, 62, 6, 393232, 67, 6, 524265, 68, 6, 524297, 70, 6, 589765, 72, 0, 589768, 72, 1, 589771, 72, 2, 589774, 72, 3, 589777, 72, 4, 589780, 72, 5, 589783, 72, 6, 196586, 65459, 6, 262112, 65462, 6, 393248, 65465, 6, 458775, 65467, 6, 458793, 65467, 6, 131063, 65468, 6, 262149, 65469, 6, 262161, 65469, 6, 262126, 65470, 6, 262106, 65472, 6, 327652, 65474, 6, 262168, 65475, 6, 327652, 65475, 6, 65518, 65476, 6, 262186, 65476, 2, 458783, 65476, 6, 12, 65477, 6, 262098, 65477, 6, 393210, 65477, 6, -65534, 65477, 6, 196581, 65480, 2, 196616, 65482, 2, 131057, 65483, 6, 131092, 65485, 6, 196641, 65485, 6, 393178, 65485, 6, 393179, 65485, 6, 196582, 65486, 6, 393178, 65486, 6, 393243, 65488, 6, 196605, 65489, 6, 196613, 65489, 6, 262160, 65489, 6, 393243, 65489, 6, 262160, 65490, 6, 262138, 65492, 6, 262193, 65492, 2, 131107, 65493, 6, 131108, 65493, 6, 262104, 65493, 2, -65530, 65493, 6, 327652, 65494, 6, 327699, 65494, 6, 131101, 65498, 6, 393201, 65501, 6, 262162, 65502, 6, 65544, 65503, 6, 262102, 65504, 6, 262145, 65504, 2, 262182, 65504, 6, 262182, 65505, 6, 196659, 65506, 2, 655350, 65506, 6, 327655, 65507, 6, 327710, 65507, 6, 589795, 65507, 6, 262136, 65509, 6, 327683, 65510, 6, 262105, 65511, 6, 131055, 65512, 6, 393192, 65512, 6, 196646, 65514, 6, 131090, 65515, 6, 262097, 65516, 2, 262169, 65516, 2, 524288, 65516, 6, 720921, 65516, 6, 262168, 65517, 6, 262169, 65517, 6, 131062, 65518, 6, 327642, 65518, 6, 196580, 65519, 6, 524250, 65519, 6, 131073, 65521, 6, 524295, 65521, 6, 131120, 65523, 2, 262113, 65525, 2, 327695, 65525, 6, -26, 65525, 6, 262146, 65526, 6, 655397, 65526, 6, -131087, 65527, 6, 131062, 65529, 6, 327655, 65530, 6, 327702, 65531, 6, 393186, 65531, 6, 393187, 65531, 6, 458749, 65531, 6, 589859, 65531, 6, 589859, 65532, 6, 655370, 65532, 6, 393179, 65534, 6, 196555, 65535, 6 )
+}
+__meta__ = {
+"_editor_clip_": 0,
+"_editor_floor_": Vector3( 0, 6, 0 )
+}
 
 [node name="Levels" type="Spatial" parent="."]
 

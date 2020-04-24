@@ -1,0 +1,91 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://assets/tikis/floating_tiki/tiki_lovey_dovey_bind.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://assets/tikis/shhhh_tiki/tiki_shhhh_bind.obj" type="ArrayMesh" id=2]
+[ext_resource path="res://assets/tikis/beta_thunder_tiki/tiki_thunder_bind.obj" type="ArrayMesh" id=3]
+[ext_resource path="res://assets/tikis/beta_floating_tiki/tiki_lovey_dovey_bind.obj" type="ArrayMesh" id=4]
+[ext_resource path="res://assets/tikis/thunder_tiki/tiki_thunder_bind.obj" type="ArrayMesh" id=5]
+[ext_resource path="res://assets/tikis/wooden_tiki/tiki_wooden_bind.obj" type="ArrayMesh" id=6]
+[ext_resource path="res://assets/tikis/stone_tiki/tiki_stone_bind.obj" type="ArrayMesh" id=7]
+
+[sub_resource type="BoxShape" id=8]
+extents = Vector3( 0.5, 0.5, 0.5 )
+
+[node name="Tikis" type="Spatial"]
+
+[node name="BetaFloatingTiki" type="MeshInstance" parent="."]
+mesh = ExtResource( 4 )
+material/0 = null
+
+[node name="StaticBody" type="StaticBody" parent="BetaFloatingTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="BetaFloatingTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
+
+[node name="BetaThunderTiki" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0 )
+mesh = ExtResource( 3 )
+material/0 = null
+
+[node name="StaticBody" type="StaticBody" parent="BetaThunderTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="BetaThunderTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
+
+[node name="FloatingTiki" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 0 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+
+[node name="StaticBody" type="StaticBody" parent="FloatingTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="FloatingTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
+
+[node name="ShhhhTiki" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0, 0 )
+mesh = ExtResource( 2 )
+material/0 = null
+
+[node name="StaticBody" type="StaticBody" parent="ShhhhTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="ShhhhTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
+
+[node name="StoneTiki" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, 0 )
+mesh = ExtResource( 7 )
+material/0 = null
+
+[node name="StaticBody" type="StaticBody" parent="StoneTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="StoneTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
+
+[node name="ThunderTiki" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 0 )
+mesh = ExtResource( 5 )
+material/0 = null
+
+[node name="StaticBody" type="StaticBody" parent="ThunderTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="ThunderTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
+
+[node name="WoodenTiki" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 12, 0, 0 )
+mesh = ExtResource( 6 )
+material/0 = null
+
+[node name="StaticBody" type="StaticBody" parent="WoodenTiki"]
+
+[node name="CollisionShape" type="CollisionShape" parent="WoodenTiki/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
+shape = SubResource( 8 )
