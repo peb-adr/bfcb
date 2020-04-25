@@ -1,3 +1,5 @@
 
-.import/
+/.import/
 *.import
+# bob.glb import params need to be saved for animations to work
+!/assets/bob_gltf/bob_fbx_import.glb.import
