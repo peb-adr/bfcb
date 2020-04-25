@@ -4,4 +4,4 @@
 
 Executable binaries can be downloaded on the release page.
 
-To open the project in the Godot editor download it from [here](https://godotengine.org/download), clone the repo and add the bfcb folder to your godot project list.
+To open the project in the Godot editor download it from [here](https://godotengine.org/download), clone or download the repo and add the bfcb folder to your godot project list.
